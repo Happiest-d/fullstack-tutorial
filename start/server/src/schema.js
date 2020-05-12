@@ -63,6 +63,8 @@ const typeDefs = gql`
         hasMore: Boolean!
         launches: [Launch]!
     }
+
+    
 `;
 
 module.exports = typeDefs;
